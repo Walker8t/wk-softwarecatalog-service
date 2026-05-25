@@ -1,0 +1,7 @@
+openapi: 3.0.1
+info:
+  title: Cheque Deposit
+  description: Support remote cheque deposit feature via cheque image.
+  version: 1.0.0
+  x-cortex-type: domain
+  x-cortex-tag: cheque-deposit-domain

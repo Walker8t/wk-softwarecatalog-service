@@ -1,0 +1,7 @@
+openapi: 3.0.1
+info:
+  title: Investment Accounts
+  description: Domain responsible for managing Investment account lifecycle.
+  version: 1.0.0
+  x-cortex-type: domain
+  x-cortex-tag: investment-accounts-domain

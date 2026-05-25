@@ -1,0 +1,12 @@
+openapi: 3.0.1
+info:
+  title: ETransfer Payments
+  x-cortex-git:
+    github:
+      alias: cortex
+      repository: eq-bank/eqb-db-etransfer
+  description: |
+    Domain responsible for implementing Interac e-Transfer for EQBank.
+  version: 1.0.0
+  x-cortex-type: domain
+  x-cortex-tag: etransfer-payments-domain

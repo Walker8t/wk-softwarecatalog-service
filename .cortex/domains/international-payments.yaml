@@ -1,0 +1,7 @@
+openapi: 3.0.1
+info:
+  title: International Payments
+  description: Support contact management and international fund transfer feature.
+  version: 1.0.0
+  x-cortex-type: domain
+  x-cortex-tag: international-payments-domain

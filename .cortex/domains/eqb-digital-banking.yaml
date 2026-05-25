@@ -1,0 +1,7 @@
+openapi: 3.0.1
+info:
+  title: EQB Digital Banking
+  description: Domain responsible for the EQB Digital Banking platform.
+  version: 1.0.0
+  x-cortex-type: domain
+  x-cortex-tag: eqb-digital-banking-domain

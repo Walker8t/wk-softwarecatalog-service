@@ -1,0 +1,8 @@
+openapi: 3.0.1
+info:
+  title: Tax
+  description: |
+    Domain responsible for tax reporting across customer financial products.
+  version: 1.0.0
+  x-cortex-type: domain
+  x-cortex-tag: tax-domain

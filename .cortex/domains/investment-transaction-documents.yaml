@@ -1,0 +1,7 @@
+openapi: 3.0.1
+info:
+  title: Investment Transaction Documents
+  description: Enables generation and access to transactions, monthly statements for investment accounts.
+  version: 1.0.0
+  x-cortex-type: domain
+  x-cortex-tag: investment-transaction-documents-domain

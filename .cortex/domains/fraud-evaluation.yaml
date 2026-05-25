@@ -1,0 +1,7 @@
+openapi: 3.0.1
+info:
+  title: Fraud Evaluation
+  description: Evaluate user transaction across web and mobile app channel. Prevent and flag fraudulent actions.
+  version: 1.0.0
+  x-cortex-type: domain
+  x-cortex-tag: fraud-evaluation-domain

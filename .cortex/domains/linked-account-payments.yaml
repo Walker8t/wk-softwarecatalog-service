@@ -1,0 +1,7 @@
+openapi: 3.0.1
+info:
+  title: Linked Account Payments
+  description: Support EFT fund transfer for linked accounts.
+  version: 1.0.0
+  x-cortex-type: domain
+  x-cortex-tag: linked-account-payments-domain

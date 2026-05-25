@@ -1,0 +1,7 @@
+openapi: 3.0.1
+info:
+  title: Deposit Accounts
+  description: Domain responsible for managing Deposit account lifecycle.
+  version: 1.0.0
+  x-cortex-type: domain
+  x-cortex-tag: deposit-accounts-domain

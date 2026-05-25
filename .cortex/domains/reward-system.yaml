@@ -1,0 +1,7 @@
+openapi: 3.0.1
+info:
+  title: Reward System
+  description: Monitor digital banking transactions and apply rewards. Currently, ATM reimbursement fee is only reward type supported.
+  version: 1.0.0
+  x-cortex-type: domain
+  x-cortex-tag: reward-system-domain

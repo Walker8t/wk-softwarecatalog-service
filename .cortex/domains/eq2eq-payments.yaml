@@ -1,0 +1,7 @@
+openapi: 3.0.1
+info:
+  title: EQ2EQ Payments
+  description: Support linking of EQ contacts and fund transfer feature.
+  version: 1.0.0
+  x-cortex-type: domain
+  x-cortex-tag: eq2eq-payments-domain

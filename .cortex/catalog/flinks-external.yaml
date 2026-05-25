@@ -1,0 +1,33 @@
+openapi: 3.0.1
+info:
+  title: Flinks
+  description: Flinks is an external financial data aggregation platform used to securely
+    connect customer bank accounts and retrieve consent-based financial data.
+  x-cortex-tag: flinks
+  x-cortex-link:
+  - url: https://status.flinks.com/
+    name: Flinks Status Page
+    type: HEALTHCHECK
+    description: ""
+  - url: https://docs.flinks.com/api-home
+    name: API Documentation
+    type: DOCUMENTATION
+    description: ""
+  x-cortex-type: integration
+  x-cortex-owners:
+  - type: EMAIL
+    email: gmiranda@eqbank.ca
+    description: ""
+  - name: eq-bank-accounts-team
+    type: GROUP
+    provider: CORTEX
+    description: ""
+  - name: eq-bank-accounts-pod-rw
+    type: GROUP
+    provider: CORTEX
+    description: ""
+  x-cortex-definition:
+    contact: help-ca@flinks.com
+    criticality: high
+    dataSensitivity: confidential
+    integrationType: external

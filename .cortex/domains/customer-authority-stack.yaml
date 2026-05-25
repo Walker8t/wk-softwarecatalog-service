@@ -1,0 +1,7 @@
+openapi: 3.0.1
+info:
+  title: Customer Authority Stack
+  description: CIF system for digital bank. Manage Individual and Business entities and their relations for Digital Banking.
+  version: 1.0.0
+  x-cortex-type: domain
+  x-cortex-tag: customer-authority-stack-domain

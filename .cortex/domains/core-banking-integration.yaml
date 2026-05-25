@@ -1,0 +1,7 @@
+openapi: 3.0.1
+info:
+  title: Core Banking Integration
+  description: Provide interface and functionality to enable core banking features.
+  version: 1.0.0
+  x-cortex-type: domain
+  x-cortex-tag: core-banking-integration-domain

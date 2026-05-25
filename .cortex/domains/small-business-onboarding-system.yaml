@@ -1,0 +1,7 @@
+openapi: 3.0.1
+info:
+  title: Small Business Onboarding System
+  description: Onboard a small business with user and create initial banking account.
+  version: 1.0.0
+  x-cortex-type: domain
+  x-cortex-tag: small-business-onboarding-system-domain

@@ -1,0 +1,7 @@
+openapi: 3.0.1
+info:
+  title: Investment Tax Document
+  description: Enables generation and access to investment tax documents.
+  version: 1.0.0
+  x-cortex-type: domain
+  x-cortex-tag: investment-tax-document-domain

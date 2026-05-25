@@ -1,0 +1,7 @@
+openapi: 3.0.1
+info:
+  title: Product Catalogue
+  description: Manage product offerings for digital banking. Currently only prepaid card offering is supported.
+  version: 1.0.0
+  x-cortex-type: domain
+  x-cortex-tag: product-catalogue-domain

@@ -1,0 +1,7 @@
+openapi: 3.0.1
+info:
+  title: Biller Payments
+  description: Support registration for biller payments and scheduling.
+  version: 1.0.0
+  x-cortex-type: domain
+  x-cortex-tag: biller-payments-domain

@@ -1,0 +1,7 @@
+openapi: 3.0.1
+info:
+  title: Retail Onboarding System
+  description: Onboard personal banking user and create initial banking account.
+  version: 1.0.0
+  x-cortex-type: domain
+  x-cortex-tag: retail-onboarding-system-domain

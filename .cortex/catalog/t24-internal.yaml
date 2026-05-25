@@ -1,0 +1,15 @@
+openapi: 3.0.1
+info:
+  title: T24
+  description: T24 (Temenos Transact) is the bank's core banking platform
+  x-cortex-tag: t24
+  x-cortex-type: integration
+  x-cortex-owners:
+  - type: EMAIL
+    email: gmiranda@eqbank.ca
+    description: ""
+  x-cortex-definition:
+    contact: t24@eqbank.ca
+    criticality: critical
+    dataSensitivity: confidential
+    integrationType: internal
