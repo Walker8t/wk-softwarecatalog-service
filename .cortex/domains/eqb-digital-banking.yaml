@@ -2,6 +2,7 @@ openapi: 3.0.1
 info:
   title: EQ Bank — Digital Banking
   description: Domain representing EQ Bank's Digital Banking platform.
+  version: 1.0.0
   x-cortex-tag: eq-bank-digital-banking-domain
   x-cortex-type: domain
   x-cortex-owners:
