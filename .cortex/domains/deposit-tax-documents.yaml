@@ -1,7 +1,0 @@
-openapi: 3.0.1
-info:
-  title: Deposit Tax Documents
-  description: Enables generation and access to deposit tax documents.
-  version: 1.0.0
-  x-cortex-type: domain
-  x-cortex-tag: deposit-tax-documents-domain

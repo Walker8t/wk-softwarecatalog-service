@@ -1,8 +1,8 @@
 openapi: 3.0.1
 info:
-  title: Tax
+  title: Tax Documents
   description: |
-    Domain responsible for tax reporting across customer financial products.
+    Enables generation and access to customer tax documents.
   version: 1.0.0
   x-cortex-type: domain
-  x-cortex-tag: tax-domain
+  x-cortex-tag: tax-documents-domain
