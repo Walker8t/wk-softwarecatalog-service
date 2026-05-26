@@ -1,7 +1,34 @@
 openapi: 3.0.1
 info:
-  title: EQB Digital Banking
-  description: Domain responsible for the EQB Digital Banking platform.
-  version: 1.0.0
+  title: EQ Bank — Digital Banking
+  description: Domain representing EQ Bank's Digital Banking platform.
+  x-cortex-tag: eq-bank-digital-banking-domain
   x-cortex-type: domain
-  x-cortex-tag: eqb-digital-banking-domain
+  x-cortex-owners:
+  - type: EMAIL
+    email: gmiranda@eqbank.ca
+    description: ""
+    inheritance: APPEND
+  x-cortex-children:
+  - tag: retail-onboarding-system-domain
+  - tag: small-business-onboarding-system-domain
+  - tag: customer-identity-system-domain
+  - tag: customer-authority-stack-domain
+  - tag: reward-system-domain
+  - tag: deposit-accounts-domain
+  - tag: investment-accounts-domain
+  - tag: card-accounts-domain
+  - tag: external-account-linking-domain
+  - tag: product-catalogue-domain
+  - tag: deposit-transaction-documents-domain
+  - tag: investment-transaction-documents-domain
+  - tag: tax-documents-domain
+  - tag: etransfer-payments-domain
+  - tag: international-payments-domain
+  - tag: cheque-deposit-domain
+  - tag: biller-payments-domain
+  - tag: eq2eq-payments-domain
+  - tag: linked-account-payments-domain
+  - tag: fraud-evaluation-domain
+  - tag: core-banking-integration-domain
+  - tag: customer-chat-domain
