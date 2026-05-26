@@ -2,7 +2,7 @@ openapi: 3.0.1
 info:
   title: External Account Linking
   description: |
-    Domain responsible for linking customer external bank accounts.
+    Manage external account linking lifecycle.
   version: 1.0.0
   x-cortex-type: domain
   x-cortex-tag: external-account-linking-domain

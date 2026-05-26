@@ -1,7 +1,7 @@
 openapi: 3.0.1
 info:
   title: Customer Identity System
-  description: Domain responsible for managing and authenticating digital banking user identity.
+  description: Create, Manage and Authenticate digital bank user identity.
   version: 1.0.0
   x-cortex-type: domain
   x-cortex-tag: customer-identity-system-domain
