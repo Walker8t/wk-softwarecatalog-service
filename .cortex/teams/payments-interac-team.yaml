@@ -1,0 +1,9 @@
+openapi: 3.0.1
+info:
+  title: payments-interac-team
+  x-cortex-tag: payments-interac-team
+  x-cortex-team:
+    groups:
+    - name: AZ-IDP-PAYMENTS-INTERAC
+      provider: ACTIVE_DIRECTORY
+  x-cortex-type: team

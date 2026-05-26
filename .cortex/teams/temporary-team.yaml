@@ -1,0 +1,9 @@
+openapi: 3.0.1
+info:
+  title: temporary-team
+  x-cortex-tag: temporary-team
+  x-cortex-team:
+    groups:
+    - name: AZ-IDP-TEMP-USERS
+      provider: ACTIVE_DIRECTORY
+  x-cortex-type: team

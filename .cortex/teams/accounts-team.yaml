@@ -1,0 +1,9 @@
+openapi: 3.0.1
+info:
+  title: accounts-team
+  x-cortex-tag: accounts-team
+  x-cortex-team:
+    groups:
+    - name: AZ-IDP-ACCOUNTS
+      provider: ACTIVE_DIRECTORY
+  x-cortex-type: team

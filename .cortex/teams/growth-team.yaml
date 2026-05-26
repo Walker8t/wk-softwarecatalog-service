@@ -1,0 +1,9 @@
+openapi: 3.0.1
+info:
+  title: growth-team
+  x-cortex-tag: growth-team
+  x-cortex-team:
+    groups:
+    - name: AZ-IDP-GROWTH
+      provider: ACTIVE_DIRECTORY
+  x-cortex-type: team

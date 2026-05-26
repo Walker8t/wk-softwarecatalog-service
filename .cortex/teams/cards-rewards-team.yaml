@@ -1,0 +1,9 @@
+openapi: 3.0.1
+info:
+  title: cards-rewards-team
+  x-cortex-tag: cards-rewards-team
+  x-cortex-team:
+    groups:
+    - name: AZ-IDP-CARDS-REWARDS
+      provider: ACTIVE_DIRECTORY
+  x-cortex-type: team

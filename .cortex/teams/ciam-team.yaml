@@ -1,0 +1,18 @@
+openapi: 3.0.1
+info:
+  title: ciam-team
+  x-cortex-tag: ciam-team
+  x-cortex-team:
+    groups:
+    - name: AZ-IDP-CIAM
+      provider: ACTIVE_DIRECTORY
+  x-cortex-type: team
+  x-cortex-issues:
+    jira:
+      projects:
+      - name: DB CIAM
+        alias: Betterway JIRA - Prod
+  x-cortex-oncall:
+    opsgenie:
+      id: d71d54c6-5fce-4d0e-9e84-445395d48938
+      type: SCHEDULE

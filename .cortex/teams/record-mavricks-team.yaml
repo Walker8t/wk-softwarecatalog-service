@@ -1,0 +1,14 @@
+openapi: 3.0.1
+info:
+  title: record-mavricks-team
+  x-cortex-tag: record-mavricks-team
+  x-cortex-team:
+    groups:
+    - name: AZ-IDP-RECORD-MAVRICKS
+      provider: ACTIVE_DIRECTORY
+  x-cortex-type: team
+  x-cortex-issues:
+    jira:
+      projects:
+      - name: DB Record Mavericks Pod
+        alias: Betterway JIRA - Prod

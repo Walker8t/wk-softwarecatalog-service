@@ -1,0 +1,9 @@
+openapi: 3.0.1
+info:
+  title: martech-team
+  x-cortex-tag: martech-team
+  x-cortex-team:
+    groups:
+    - name: AZ-IDP-MARTECH
+      provider: ACTIVE_DIRECTORY
+  x-cortex-type: team
