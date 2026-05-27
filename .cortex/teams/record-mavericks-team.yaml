@@ -1,10 +1,10 @@
 openapi: 3.0.1
 info:
-  title: record-mavricks-team
-  x-cortex-tag: record-mavricks-team
+  title: record-mavericks-team
+  x-cortex-tag: record-mavericks-team
   x-cortex-team:
     groups:
-    - name: AZ-IDP-RECORD-MAVRICKS
+    - name: AZ-IDP-RECORD-MAVERICKS
       provider: ACTIVE_DIRECTORY
   x-cortex-type: team
   x-cortex-issues:
